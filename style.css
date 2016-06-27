@@ -31,6 +31,8 @@ span {
 .infoTable {
 	width: 100%;
 	display: table;
+	border-collapse: separate;
+	border-spacing: 10px;
 }
 
 .row {
@@ -39,15 +41,17 @@ span {
 
 .cell {
 	display: table-cell;
-	width: 20px;
-	height: 20px;
-	background-color: white;
+	width: 10px;
+	height: 10px;
 	border: 2px solid gray;
 	padding: 1px;
 	text-align: center;
 	opacity: 0.5;
 	position: relative;
 
+	background-color: lightgray ;
+
+	color: black;
 	font-family: Arial, sans-serif;
 	font-weight: bold;
 }

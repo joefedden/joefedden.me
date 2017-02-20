@@ -1,11 +1,19 @@
 {
-	"name":"joefedden.me",
-	"version":"1.0.0",
-	"description":"Personal website app",
-	"main":"index.js",
-	"scripts": {
-		"run":"node index.js"
-	},
-	"author":"Joe Fedden",
-	"license":"MIT"
+  "name": "joefedden.me",
+  "version": "0.0.1",
+  "description": "Personal Website App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/joefedden/joefedden.me.git"
+  },
+  "author": "Joe Fedden",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joefedden/joefedden.me/issues"
+  },
+  "homepage": "https://github.com/joefedden/joefedden.me#readme"
 }

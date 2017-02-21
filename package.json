@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/joefedden/joefedden.me/issues"
   },
-  "homepage": "https://github.com/joefedden/joefedden.me#readme"
+  "homepage": "https://github.com/joefedden/joefedden.me#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
 }

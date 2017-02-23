@@ -18,5 +18,8 @@
   "homepage": "https://github.com/joefedden/joefedden.me#readme",
   "devDependencies": {
     "gulp": "^3.9.1"
+  },
+  "dependencies": {
+    "react": "^15.4.2"
   }
 }

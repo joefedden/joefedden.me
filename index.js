@@ -1,9 +1,9 @@
-var express = require('express')
-var app = express()
-var port = 8080
+var express = require('express');
+var app = express();
+var port = 8000;
 
 app.get('/', function (req, res) {
-  res.send("Test");
+  res.send("Hello World");
 });
 
 app.listen(port, function () {
